@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List View Fruits</string>
+    <string name="title_activity_recycler_">Recycler_Activity</string>
+</resources>
